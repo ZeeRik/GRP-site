@@ -1,0 +1,1 @@
+<tr><td><a href="/user/search/{Name}/">{name}</a></td><td>{cash}$</td><td>{bank_cash}$</td></tr>

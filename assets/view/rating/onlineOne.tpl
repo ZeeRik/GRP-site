@@ -1,0 +1,1 @@
+<tr><td><a href="/user/search/{Name}/">{name}</a></td><td>{day_online} мин.</td><td>{played_time} час.</td></tr>

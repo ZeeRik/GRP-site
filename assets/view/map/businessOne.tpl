@@ -1,0 +1,1 @@
+﻿<img src="{icon}" id="map-item" style="position:absolute;top:{top}px;left:{left}px;" data-toggle="popover" data-trigger="hover" data-html="true" title="№<b>{bID}</b>" data-content="<center><span class='label label-danger'>{bName}</span></center><br>Владелец: <b>{bOwner}</b><br>Стоимость: <b>{bBuyPrice}</b>$<br>Продукты: <b>{bProduct}</b>">

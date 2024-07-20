@@ -1,0 +1,1 @@
+﻿<img src="{icon}" id="map-item" style="position:absolute;top:{top}px;left:{left}px;" data-toggle="popover" data-trigger="hover" data-html="true" title="Дом №{hID}" data-content="Владелец: <b>{hOwner}</b><br>Стоимость: <b>{hValue}</b>$">

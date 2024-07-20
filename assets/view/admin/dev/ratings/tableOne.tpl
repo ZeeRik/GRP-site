@@ -1,0 +1,1 @@
+<option value="{type}">{title} [{name}]</option>

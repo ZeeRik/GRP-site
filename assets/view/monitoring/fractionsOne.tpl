@@ -1,0 +1,1 @@
+﻿<tr><td><a href="/user/search/{Name}/">{name}</a></td><td>{rank}</td><td>{reprimands} / 3</td><td>{lvl}</td><td>{online_sec}</td></tr>

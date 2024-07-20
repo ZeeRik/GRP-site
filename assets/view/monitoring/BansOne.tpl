@@ -1,0 +1,1 @@
+<tr><td><a href="/user/search/{name}/">{name}</a></td><td><a href="/user/search/{admin}/">{admin}</a></td><td>{date}</td><td>{unbandate}</td><td>{reason}</td></tr>

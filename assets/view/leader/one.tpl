@@ -1,0 +1,1 @@
+<tr><td>{name}</td><td>{rank}</td><td>{day_online}</td><td><a id="noUri" href="/leader/up/{name}/"><i class="fa fa-chevron-circle-up"></i></a></td><td><a id="noUri" href="/leader/down/{name}/"><i class="fa fa-chevron-circle-down"></i></a></td><td><a id="noUri" href="/leader/remove/{name}/"><i class="fa fa-remove"></i></a></td></tr>
